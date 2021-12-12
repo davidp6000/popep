@@ -1,0 +1,26 @@
+﻿<configuracion>
+    <usuario>
+        <nombre>conexion</nombre>
+        <password>1234</password>
+        <baseNombre>hotel</baseNombre>
+        <servidor>localhost</servidor>
+        <rol>0</rol>
+    </usuario>
+    
+    <usuario>
+        <nombre>estandar</nombre>
+        <password>1234</password>
+        <baseNombre>hotel</baseNombre>
+        <servidor>localhost</servidor>
+        <rol>2</rol>
+    </usuario>
+    
+    <usuario>
+        <nombre>admin</nombre>
+        <password>1234</password>
+        <baseNombre>hotel</baseNombre>
+        <servidor>localhost</servidor>
+        <rol>3</rol>
+    </usuario>
+    
+</configuracion>

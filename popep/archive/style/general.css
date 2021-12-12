@@ -1,0 +1,27 @@
+/*** STYLES FORMULARIOS  *****/
+
+.localizacion{
+    display: flex;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.form.form_login{
+    margin-right: 20px;
+}
+.form form input{
+    width: 100%;
+    margin-bottom: 5px;
+}
+#botonSesion, #botonRegistro{
+    background-color: #0741AD;
+    color: white;
+    font-weight: 500;
+}
+
+/*** STYLES PUBLICACIONES ***/
+
+#img_publicacion img{
+    width:500px;
+}

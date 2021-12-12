@@ -1,0 +1,16 @@
+<configuracion>
+    <usuario>
+        <nombre>visitante</nombre>
+        <password>root</password>
+        <baseNombre>popep</baseNombre>
+        <servidor>localhost</servidor>
+        <rol>1</rol>
+    </usuario>
+    <usuario>
+        <nombre>admin</nombre>
+        <password>root</password>
+        <baseNombre>popep</baseNombre>
+        <servidor>localhost</servidor>
+        <rol>2</rol>
+    </usuario>    
+</configuracion>
